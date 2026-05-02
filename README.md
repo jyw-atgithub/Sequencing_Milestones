@@ -4,3 +4,37 @@ Oxford Nanopore Technology (ONT) sequencing enables telomere-to-telomere complet
 
 I optimized the entire workflow to improve the read N50 to 40+ kb or 70+ kb with the ligation sequencing kit (LSK114) or ultra-long sequencing kit (ULK114) respectively. This is the best know results so far. Part of the results were presented in the 67th Annual Drosophila Research Conference. I am aiming N50 greater then 100 kb. All experiments were performed on a PromethION P2 Solo machine.
 
+### The ultra-long sequencing kit yeilds N50 of 70+ kb
+
+![Dpse-MV25](Dpse-ulk.png)
+
+The sample was *D. pseudoobscura*. The throughput was 23GB in 20 hours on an used flowcell. 
+
+![Dmel_ISO1](ISO1-ULK.png)
+
+The sample was the most common species, *D. melanogaster*. The throughput was 45.2GB in 20 hours and then 28.2 GB in 16 hr on a brand new flowcell.  
+To my best search, there is no public available records of ONT ultra-long data of *Drosophila* so far. 
+
+### The ligation sequencing kit yeilds N50 of 70+kb
+
+![ISO1-T3-LSK](ISO1-T3-LSK.png)
+
+This is the result from the latest experimental protocol. The sample was *D. melanogaster*.
+
+![Dpse-LSK-SFE](Dpse-LSK-SFE.png)
+
+This is a typical result with the current stable workflow. The sample was *D. pseudoobscura*.
+
+![vir-SFE-LSK](vir-SFE-LSK.png)
+
+This is a typical result with the current stable workflow. The sample was *D. virilis*, whose genome contains 50% of heterochromatin and repettive satellites.
+
+
+### Typical sequencing result with mammal DNA
+![Peromyscus leucopus](peromyscus-LSK.png)
+
+![peromyscus-LSK-2025](peromyscus-LSK-2025.png)
+
+It was performed side-by-side with another Drosophila sample with the sample protocol. The sequencing result at that time is:
+
+![ISO1-SFE-LSK-2025](ISO1-SFE-LSK-2025.png)
