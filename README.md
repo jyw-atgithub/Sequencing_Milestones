@@ -49,4 +49,4 @@ In the past year, I found the bias of ONT sequencing which "hates" some kind of 
 ![complete_asm](complete_asm.png)
 
 
-## In conclusion, I would like to work on long-read sequencing more! Since DNA is nicely handled in my hands, I believe RNA will also behaves well! ONT sequencing detects base modifications directly. I would like to integrate their rich information along with other aspectes, such as, structural variants, transcriptomics,  population genetics, phylogenetics and more. Let's work together on genomics and beyond!
+## In conclusion, I would like to answer biological questions with more long-read sequencing! Since DNA is nicely handled in my hands, I believe RNA will also behaves well! ONT sequencing detects base modifications directly. I would like to integrate their rich information along with other aspectes, such as, structural variants, transcriptomics, chromatin accessibility, population genetics, phylogenetics and more. Let's work together on genomics and beyond!
